@@ -1,7 +1,7 @@
 # Generating 3D Molecules for Target Protein Binding
 This is the official implementation of the **GraphBP** method proposed in the following paper.
 
-Meng Liu, Youzhi Luo, Kanji Uchino, Koji Maruhashi, and Shuiwang Ji. "[Generating 3D Molecules for Target Protein Binding](https://arxiv.org/abs/2204.09410)". [ICML 2022]
+Meng Liu, Youzhi Luo, Kanji Uchino, Koji Maruhashi, and Shuiwang Ji. "[Generating 3D Molecules for Target Protein Binding](https://arxiv.org/abs/2204.09410)". [ICML 2022 **Long Presentation**]
 
 ![](https://github.com/divelab/GraphBP/blob/main/assets/GraphBP.png)
 
