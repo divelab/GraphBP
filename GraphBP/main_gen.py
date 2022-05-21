@@ -19,7 +19,7 @@ focus_th = 0.5
 contact_th = 0.5
 num_gen = 100 # number generate for each reference rec-lig pair
 
-trained_model_path = 'trained_mode'
+trained_model_path = 'trained_model'
 epochs = [33]
 
 
