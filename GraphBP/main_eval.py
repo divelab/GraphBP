@@ -22,7 +22,7 @@ save_sdf_before_uff = False
 save_sdf = True
 data_root='./data/crossdock2020'
 
-path = './trained_mode'
+path = './trained_model'
 epoch = 33
 
 all_mols_dict_path = os.path.join(path, '{}_mols.mol_dict'.format(epoch))
