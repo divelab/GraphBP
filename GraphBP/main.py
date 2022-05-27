@@ -6,7 +6,7 @@ import os
 binding_site_range = 15.0
 
 
-out_path = 'trained_mode'
+out_path = 'trained_model'
 if not os.path.isdir(out_path):
     os.mkdir(out_path)
 
