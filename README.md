@@ -37,7 +37,7 @@ python scripts/split_sdf.py data/crossdock2020/it2_tt_0_lowrmsd_mols_test0_fixed
 ```linux
 CUDA_VISIBLE_DEVICES=${you_gpu_id} python main.py
 ```
-**Note**: GraphBP can be trained on a `48GB GPU` with `batchsize=16`. Our trained model is avaliable [here](https://github.com/divelab/GraphBP/blob/main/GraphBP/trained_model/model_33.pth).
+**Note**: GraphBP can be trained on a `48GB GPU` with `batchsize=16`. Our trained model is available [here](https://github.com/divelab/GraphBP/blob/main/GraphBP/trained_model/model_33.pth).
 
 * Generate atoms in the 3D space with the trained model:
 ```linux
