@@ -1,3 +1,6 @@
+# Update: Our code has been moved into [AIRS](https://github.com/divelab/AIRS/tree/main/OpenMI/GraphBP). Please refer to AIRS for any future updates. This repo is no longer maintained.
+
+
 # Generating 3D Molecules for Target Protein Binding
 This is the official implementation of the **GraphBP** method proposed in the following paper.
 
